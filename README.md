@@ -1,6 +1,7 @@
 ### Oi, como vai ? Meu nome é Glauco Lustosa - Nickname - [X-Suco-De-Fruta-X] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/GlaucoNao?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGlaucoNao&screen_name=GlaucoNao)
+[![Instagram Follow](https://img.shields.io/instagram/follow/glauco.lustosa?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fglauco.lustosa&screen_name=glauco.lustosa)
 
 ## Sou Gamer, Desenvolvedor, Entusiasta, e Professor!
 
@@ -48,7 +49,6 @@
 
 [twitter]: https://twitter.com/GlaucoNao
 [whatsapp]: https://api.whatsapp.com/send?phone=5511945311198&text=Ol%C3%A1%2C%20vi%20seu%20GitHub%20e%20estou%20interessado%20no%20seu%20trabalho.
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/glauco.lustosa
 [linkedin]: https://linkedin.com/in/glauco-lustosa
 
