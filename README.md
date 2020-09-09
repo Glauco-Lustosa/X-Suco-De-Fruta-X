@@ -39,9 +39,9 @@
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Status GitHub</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-five-eta.vercel.app/api?username=x-suco-de-fruta-x&show_icons=true&hide_border=true" />
+  <img align="left" alt="x-suco-de-fruta-x Github Status" src="https://github-readme-stats-five-eta.vercel.app/api?username=x-suco-de-fruta-x&show_icons=true&hide_border=true" />
 
 </details>
 
