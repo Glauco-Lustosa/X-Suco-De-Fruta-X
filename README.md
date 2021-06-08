@@ -3,11 +3,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/GlaucoNao?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGlaucoNao&screen_name=GlaucoNao)
 ## I'm a Gamer, Developer, Enthusiastic, and Teacher!
 
-- 🔭 Nowadays I am a Full-Stack Developer try to figure out how to become more than this!
-- 🌱 I'm trying to learn ReactJS because it is the one of big three frameworks/library 🤣🤣🤣
+- 📈 Nowadays I am a Full-Stack Developer try to figure out how to become more than this!
+- 🌱 I'm trying to learn ReactJS because it is the one of big three frameworks/library 💘 
 - 👯 Looking for outsiders to interact and expand my knowledge!
-- 🥅 If my wish was a sentence it's would be "Find a new way".
-- ⚡ Fun fact: Some people beliaves JavaScript and Java is the same thing strange isn't? 💘 
+- ⭐ If my wish was a sentence it's would be "Find a new way".
+- 😂 Fun fact: Some people beliaves JavaScript and Java is the same thing strange isn't? 🤣🤣🤣
 
 ### Communications Channels:
 
