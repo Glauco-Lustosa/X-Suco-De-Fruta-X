@@ -1,13 +1,13 @@
-### Oi, como vai ? Meu nome é Glauco Lustosa - Nickname - [X-Suco-De-Fruta-X] 👋
+### What’s up, reader? My name is Glauco Lustosa also known as IT guy! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/GlaucoNao?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGlaucoNao&screen_name=GlaucoNao)
-## Sou Gamer, Desenvolvedor, Entusiasta, e Professor!
+## I'm a Gamer, Developer, Enthusiastic, and Teacher!
 
-- 🔭 Atualmente estou trabalhando em maneiras de lançar cursos de programação focado no mercado de trabalho!
-- 🌱 Estou tentando aprender ReactJS 🤣
-- 👯 Procuro pessoas que queiram aprender e crirar futuros projetos juntos !!!
-- 🥅 Nesse ano de 2020: Estou tentando engressar no mercado de FullStack e Freelancer.
-- ⚡ Fato Engraçado: Sou apaixonado pelo meu cabelo e minhas tatuagens 💘 
+- 🔭 Nowadays I am a Full-Stack Developer try to figure out how to become more than this!
+- 🌱 I'm trying to learn ReactJS because it is the one of big three frameworks/library 🤣🤣🤣
+- 👯 Looking for outsiders to interact and expand my knowledge!
+- 🥅 If my wish was a sentence it's would be "Find a new way".
+- ⚡ Fun fact: Some people beliaves JavaScript and Java is the same thing strange isn't? 💘 
 
 ### Entre em contato comigo:
 
